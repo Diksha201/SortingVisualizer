@@ -3,7 +3,7 @@
 A simple Sorting Algorithm Visualizer built using HTML, CSS, and JavaScript.
 It helps you understand how different sorting algorithms work by showing animations of array elements being sorted step by step.
 
-# Live :- 
+# Live :- https://diksha201.github.io/SortingVisualizer/
 
 # 🚀 Features
 
